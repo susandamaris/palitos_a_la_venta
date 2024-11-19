@@ -1,19 +1,21 @@
 body{
     background-color: black;
     color: white;
-    padding: 40px;
+    padding: 60px;
     font-family: "Sour Gummy", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
     font-variation-settings:
     "wdth" 100;
+    font-size: 20px;
 }
 .caja{
     background-color: rgba(0, 0, 0, 0.863);
-    padding: 60px;
+    padding: 80px;
     border-radius: 10px;
     text-align: center;
+    margin: 10px;
 }
 img{
     max-width: 100%;
@@ -43,15 +45,15 @@ header{
 }
 .sec3{
     text-align: center;
-    padding: 30px;
+    
 }
 .sec2{
     text-align: left;
-    padding: 30px;
+    
 }
 .sec1{
     text-align: left;
-    padding: 30px;
+    
 }
 .enviar{
     color:white;
@@ -107,7 +109,7 @@ input{
         padding: 10px;
     }
     .caja{
-        padding: 20px;
+        padding: 25px;
     }
     .redes img{
         width: 60px;
@@ -115,8 +117,7 @@ input{
     }
     body{
         padding: 25px;
+        font-size: 13px;
     }
-    .sec1,.sec2,.sec3{
-        padding: 10px;
-    }
+   
 }
